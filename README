@@ -1,9 +1,57 @@
-Instructions to run: 
+Snake Game
 
-1. Open terminal: 
+![Snake Game Screenshot](snake_game_screenshot.png)
 
-First command: javac GameFrame.java GamePanel.java SnakeGame.java
+## Overview
 
-Second command: java GameFrame GamePanel SnakeGame
+This Java Snake Game is a classic arcade-style game where players control a snake to eat food and grow in size. The game is built using Java Swing components and provides a simple and intuitive gaming experience.
 
-Program will then open.
+## Features
+
+- Control a snake using arrow keys (Up, Down, Left, Right).
+- Eat food to grow longer and earn points.
+- Avoid colliding with walls and the snake's own body.
+- Score tracking to challenge yourself or compete with friends.
+- Game over screen with your final score.
+
+## How to Play
+
+1. Clone the repository to your local machine.
+2. Compile the Java source code.
+3. Run the game and use arrow keys to control the snake.
+4. Collect food to increase your score.
+5. Try to achieve the highest score without crashing into walls or the snake's body.
+
+## Prerequisites
+
+- Java Development Kit (JDK)
+- Java Runtime Environment (JRE)
+
+## Getting Started
+
+To get started with the game, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/yourusername/snake-game.git`
+2. Compile the Java source code: `javac SnakeGame.java`
+3. Run the game: `java SnakeGame`
+
+## Contributions
+
+Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
+
+## License
+
+This Snake Game is open-source software released under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+Special thanks to [Your Name] for creating this game and providing the source code.
+
+Enjoy playing the Snake Game, and have fun coding!
+
